@@ -1,0 +1,81 @@
+C:\Users\Admin\source\repos\курсач\obj\Debug\курсач.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\курсач\obj\Debug\AddEditWindow.g.cs
+C:\Users\Admin\source\repos\курсач\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\Admin\source\repos\курсач\obj\Debug\RefreshWindow.g.cs
+C:\Users\Admin\source\repos\курсач\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\курсач\obj\Debug\курсач_Content.g.cs
+C:\Users\Admin\source\repos\курсач\obj\Debug\курсач_MarkupCompile.cache
+C:\Users\Admin\source\repos\курсач\obj\Debug\курсач_MarkupCompile.lref
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач.csproj.AssemblyReference.cache
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\AddEditWindow.g.cs
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\MainWindow.g.cs
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\RefreshWindow.g.cs
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\App.g.cs
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач_Content.g.cs
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач_MarkupCompile.cache
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач_MarkupCompile.lref
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\bin\Debug\курсач.exe.config
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\bin\Debug\курсач.exe
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\bin\Debug\курсач.pdb
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\bin\Debug\EntityFramework.dll
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\bin\Debug\EntityFramework.xml
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\AddEditWindow.baml
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\AuthorizationWindow.baml
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\MainWindow.baml
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\RefreshWindow.baml
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач.g.resources
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач.Properties.Resources.resources
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач.csproj.GenerateResource.cache
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач.csproj.CoreCompileInputs.cache
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач.csproj.Up2Date
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач.exe
+C:\Users\DeadRat\Downloads\Telegram Desktop\курсач\курсач\obj\Debug\курсач.pdb
+C:\Users\Admin\Documents\курсач\bin\Debug\курсач.exe.config
+C:\Users\Admin\Documents\курсач\bin\Debug\курсач.exe
+C:\Users\Admin\Documents\курсач\bin\Debug\курсач.pdb
+C:\Users\Admin\Documents\курсач\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\курсач\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\курсач\obj\Debug\AddEditWindow.g.cs
+C:\Users\Admin\Documents\курсач\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\Admin\Documents\курсач\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\курсач\obj\Debug\RefreshWindow.g.cs
+C:\Users\Admin\Documents\курсач\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач_Content.g.cs
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач_MarkupCompile.cache
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач_MarkupCompile.lref
+C:\Users\Admin\Documents\курсач\obj\Debug\AddEditWindow.baml
+C:\Users\Admin\Documents\курсач\obj\Debug\AuthorizationWindow.baml
+C:\Users\Admin\Documents\курсач\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\курсач\obj\Debug\RefreshWindow.baml
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач.g.resources
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач.Properties.Resources.resources
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач.csproj.Up2Date
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач.exe
+C:\Users\Admin\Documents\курсач\obj\Debug\курсач.pdb
+C:\Users\Admin\Documents\курсач\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Admin\Documents\курсач\obj\Debug\App.baml
